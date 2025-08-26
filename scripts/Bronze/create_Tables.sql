@@ -2,9 +2,9 @@
 CREATE BRONZE TABLES:
 
 Purpose: 
-1. This script engineers the process of creating a table schema for our bronze layer.
+1. This script engineers the process of creating table structure for our bronze layer.
 2. Object_id function is used to define the table name under user defined table ('U') and validate if the table has any values.
-	If there are any values in the table, table is dropped and it continues to execute and create schema as defined by the following code.
+	If there are any values in the table, table is dropped and it continues to execute and create table as defined by the following code.
 3. Entire process is to redefine the structure of bronze, not just to create the schemas.
 
 Note: If the data you are going to upload is not in a single file this procedure might not be perfect for you to follow.
