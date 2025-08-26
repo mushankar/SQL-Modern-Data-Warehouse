@@ -2,7 +2,7 @@
 STORED PROCEDURE TO LOAD: BRONZE LAYER (All the raw data from tables as they are)
 
 Purpose:
-1. This stored procedure loads date from external tables to 'Bronze' Schema. 
+1. This stored procedure loads data from external tables to 'Bronze' Schema. 
 2. Procedure:
     1. Truncate table to remove existing data.
     2. Load data into table using 'Bulk Insert'.
