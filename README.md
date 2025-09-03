@@ -1,3 +1,10 @@
+# Datawarehouse & Analytics project 
+
+Welcome to the ** Data warehouse and Analytics Project ** Repository.
+This project demonstrates modern data warehousing solution. Designed as a portfolio project highlights best practices in data engineering. 
+
+---
+
 ## Repository Structure
 
 This repository contains two main sections:
@@ -9,14 +16,6 @@ You can access the individual scripts here:
 [Go to Individual Scripts Folder](https://github.com/mushankar/SQL-Modern-Data-Warehouse/tree/main/Individual%20scripts)
 
 
-
-
-# Datawarehouse & Analytics project 
-
-Welcome to the ** Data warehouse and Analytics Project ** Repository.
-This project demonstrates modern data warehousing solution. Designed as a portfolio project highlights best practices in data engineering. 
-
----
 
 ## 🏗️ Data Architecture
 
