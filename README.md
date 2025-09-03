@@ -40,6 +40,8 @@ This project involves:
 
 ### BI: Analytics & Reporting (Data Analysis)
 
+[![Data Model](docs/Data_Model.png)](docs/)
+
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
