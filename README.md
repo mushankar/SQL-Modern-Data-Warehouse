@@ -1,3 +1,16 @@
+## Repository Structure
+
+This repository contains two main sections:
+
+- **Scripts/** → Contains stored procedures and large scripts that can directly generate the final output by processing one after the other.  
+- **Individual_Scripts/** → Contains individual files with detailed transformations and comments for each step. Use this folder if you want to understand the process in depth.  
+
+You can access the individual scripts here:  
+[Go to Individual Scripts Folder](https://github.com/mushankar/SQL-Modern-Data-Warehouse/main/Individual_Scripts)
+
+
+
+
 # Datawarehouse & Analytics project 
 
 Welcome to the ** Data warehouse and Analytics Project ** Repository.
