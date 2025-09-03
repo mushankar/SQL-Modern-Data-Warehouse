@@ -8,4 +8,4 @@ This project demonstrates modern data warehousing solution. Designed as a portfo
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture].(docs/Data_Architecture.png)
+[![Data Architecture]](https://github.com/mushankar/SQL-Modern-Data-Warehouse/blob/main/docs/Data_Architecture.png)
