@@ -6,7 +6,7 @@ This repository contains two main sections:
 - **Individual_Scripts/** → Contains individual files with detailed transformations and comments for each step. Use this folder if you want to understand the process in depth.  
 
 You can access the individual scripts here:  
-[Go to Individual Scripts Folder](https://github.com/mushankar/SQL-Modern-Data-Warehouse/tree/main/Individual_Scripts)
+[Go to Individual Scripts Folder](https://github.com/mushankar/SQL-Modern-Data-Warehouse/tree/main/Individual%20scripts)
 
 
 
